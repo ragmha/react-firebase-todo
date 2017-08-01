@@ -1,0 +1,23 @@
+.content {
+	opacity: 0;
+	transition: opacity 0.8s ease-in;
+}
+
+.loaded {
+	opacity: 1;
+}
+
+.input-group {
+	margin-bottom: 15px;
+}
+
+h4{
+	text-align: center;
+	color:red;
+	font-weight: bold;
+
+}
+
+.clear-complete{
+	margin-bottom: 15px
+}
